@@ -1,0 +1,27 @@
+.card-img-top{
+    height: 500px;
+    width: 400px;
+}
+.menu-hamburguer {
+    display: inline-block;
+    cursor: pointer;
+}
+.menu-hamburguer span {
+    display: block;
+    width: 35px;
+    height: 4px;
+    margin: 6px 0;
+    background-color: #333;
+    transition: 0.4s;
+}
+.pesquisa{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: start;
+}
+footer{
+    height: 100px;
+    background-color: green;
+        
+}
