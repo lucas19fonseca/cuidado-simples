@@ -25,3 +25,7 @@ footer{
     background-color: green;
         
 }
+
+.card-body {
+    height: 350px;
+}
